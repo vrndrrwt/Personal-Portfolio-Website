@@ -1,0 +1,10 @@
+:root {
+  --accent: linear-gradient(90deg,#00A8FF,#9B59FF);
+}
+
+body {
+  margin: 0;
+  font-family: Inter, 'Helvetica Neue', Arial, sans-serif;
+  background: var(--bg, #0f1724);
+  color: var(--text, #ffffff);
+}
